@@ -79,3 +79,10 @@ We've made a request for advertising and will display on the screen if the ad is
 # Happy ending
 
 ![Interstitial Ad](https://cdn-images-1.medium.com/max/800/1*bEOfuNrGaPBUB_OSp4_1jQ.png)
+
+
+# MY APPLICATION ( Permenantly Word Memorize )
+
+![Interstitial Ad](https://play.google.com/store/apps/details?id=com.gokyazilim.word_memorize)
+
+I'll be happy if you support my application.
