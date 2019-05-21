@@ -1,2 +1,2 @@
-app/src/main/java/com/gokyazilim/word_memorize/*
-!app/src/main/java/com/gokyazilim/word_memorize/Quiz_Page_Fragment.java
+/app/src/main/java/com/gokyazilim/word_memorize/*
+!/app/src/main/java/com/gokyazilim/word_memorize/Quiz_Page_Fragment.java
