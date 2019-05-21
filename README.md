@@ -83,6 +83,5 @@ We've made a request for advertising and will display on the screen if the ad is
 
 # MY APPLICATION ( Permenantly Word Memorize )
 
-![Interstitial Ad](https://play.google.com/store/apps/details?id=com.gokyazilim.word_memorize)
-
+[Play Store Pages](https://play.google.com/store/apps/details?id=com.gokyazilim.word_memorize)
 I'll be happy if you support my application.
